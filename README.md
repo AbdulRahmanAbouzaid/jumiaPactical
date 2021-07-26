@@ -1,4 +1,4 @@
-# Jumia Pactical Task
+# Jumia Practical Task
 
 ## Installation:
 - clone the repo `git clone https://github.com/AbdulRahmanAbouzaid/jumiaPactical.git`
